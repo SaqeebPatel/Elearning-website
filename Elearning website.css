@@ -1,0 +1,95 @@
+*{
+    margin: 0%;
+    
+}
+ /* nav */
+.nav{
+    background-image: url("./pic/e7.jpg");
+    height: 700px;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+
+   
+
+}
+.nav1{
+    display: flex;
+  
+}
+.nav2{
+    margin-top: 20px;
+}
+
+.navtext{
+
+       margin-top: 150px;
+       margin-left: 150px;
+       
+}
+.navtext1{
+    padding: 7px;
+    background-color: rgb(233, 232, 220);
+    width: 100px;
+    border-radius: 10px;
+    margin-top: 10PX;
+}
+li{
+    display: inline-flex;
+    padding: 15px;
+    text-decoration: none;
+    font-size: large;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    
+    
+
+}
+a{
+    
+    text-decoration: none;
+    color: rgb(253, 251, 251);
+}
+.icon{
+    width: 100px;
+    height: 100px;
+    
+}
+h1{
+    color: beige;
+}
+h5{
+    color: beige;
+}
+/* nav end */
+ /* 2 page Course */
+ .cardItem{
+    background-image: url("./pic/e6.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+  
+    width: 100%;
+ 
+}
+.cardItem1{
+display: flex;
+flex-wrap: wrap;
+justify-content: center;
+padding-top: 20px;
+gap: 10px;
+
+}
+.card{
+   
+    width: 300px;
+    border: 2px solid black;
+   overflow: hidden;
+   background: beige;
+   border-radius: 20px;
+       
+
+}
+
+
+
+ /* 2 page Course end */
+
