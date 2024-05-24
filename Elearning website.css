@@ -4,7 +4,7 @@
 }
  /* nav */
 .nav{
-    background-image: url("./pic/e7.jpg");
+    background-image: url("./pic/e1.jpg");
     height: 700px;
     width: 100%;
     background-repeat: no-repeat;
@@ -47,7 +47,7 @@ li{
 a{
     
     text-decoration: none;
-    color: rgb(253, 251, 251);
+    color: rgb(3, 3, 3);
 }
 .icon{
     width: 100px;
@@ -55,10 +55,10 @@ a{
     
 }
 h1{
-    color: beige;
+    color: rgb(6, 6, 6);
 }
 h5{
-    color: beige;
+    color: rgb(0, 0, 0);
 }
 /* nav end */
  /* 2 page Course */
